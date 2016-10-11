@@ -9,12 +9,6 @@
     "tsc:w": "tsc -w",
     "typings": "typings"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/MPTG94/my-angular-quickstart/blob/master/LICENSE"
-    }
-  ],
   "dependencies": {
     "@angular/common": "~2.0.2",
     "@angular/compiler": "~2.0.2",
@@ -40,5 +34,23 @@
     "lite-server": "^2.2.2",
     "typescript": "^2.0.3",
     "typings": "^1.4.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MPTG94/my-angular-quickstart.git"
+  },
+  "keywords": [
+    "Node",
+    "NodeJS",
+    "Express",
+    "ExpressJS",
+    "Angular",
+    "Angular2"
+  ],
+  "author": "MuseApps",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MPTG94/my-angular-quickstart/issues"
+  },
+  "homepage": "https://github.com/MPTG94/my-angular-quickstart#readme"
 }
